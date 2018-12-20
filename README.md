@@ -12,7 +12,7 @@ A API de análise de opinião em tempo real do Theyay fornece acesso a um algori
 
 *Link:* http://www.theysay.io/sentiment-analysis-api/
 
-**Openweathermap API**
+**OpenWeatherMap API**
 
 Esta API possui uma versão free e de simples uso, bastando apenas um simples cadastro para usufruir por completo dela, com informações de temperatura, umidade relativa do ar, nebulosidade, histórico de chuvas das últimas horas. 
 
